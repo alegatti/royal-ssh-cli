@@ -1,0 +1,19 @@
+{
+  "name": "royal-ssh-cli",
+  "version": "1.0.0",
+  "description": "booom royal!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alegatti/royal-ssh-cli.git"
+  },
+  "author": "Cats, Beautifuls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alegatti/royal-ssh-cli/issues"
+  },
+  "homepage": "https://github.com/alegatti/royal-ssh-cli#readme"
+}
